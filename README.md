@@ -18,12 +18,23 @@ I'm a data-focused professional developing practical projects that transform raw
 
 I hold an **MBA in Business Intelligence** and I am currently pursuing a **Postgraduate Degree in Data Analytics & Artificial Intelligence at FNAT**, strengthening my expertise in analytics, BI, data modeling, machine learning, and AI.
 
-My portfolio combines **Data Analytics, Business Intelligence, Python, SQL, Machine Learning, Artificial Intelligence, and application development**. I enjoy working across the full analytical workflow — from data preparation and exploration to visualization, modeling, and communicating actionable findings.
+Through this postgraduate program, I have also learned to use **Artificial Intelligence as a practical partner for developing, optimizing, and improving processes**. My approach is to combine AI with human judgment and business context while maintaining a strong focus on **responsible AI, data privacy, security, transparency, and compliance with GDPR and other applicable data-protection principles and organizational policies**.
+
+My portfolio combines **Data Analytics, Business Intelligence, Python, SQL, Machine Learning, Artificial Intelligence, and application development**. I enjoy working across the full analytical workflow — from data preparation and exploration to visualization, modeling, automation, and communicating actionable findings.
 
 ## 🎓 Education
 
 - 🎓 **MBA in Business Intelligence**
 - 📚 **Postgraduate Degree in Data Analytics & Artificial Intelligence — FNAT** *(in progress)*
+  - Applying AI to support process development, optimization, and continuous improvement
+  - Responsible use of data and AI with attention to GDPR, privacy, security, and governance
+  - Combining AI capabilities with analytical reasoning and human oversight
+
+## 🤖 Responsible AI & Process Improvement
+
+I see AI not simply as a tool for generating outputs, but as an **enabler for better processes and smarter analytical workflows**. I use it to support research, automation, data analysis, problem solving, development, and continuous improvement while keeping **human oversight and responsible data handling** at the center of the process.
+
+`Responsible AI` `GDPR` `Data Privacy` `AI-Assisted Development` `Process Improvement` `Automation` `Human Oversight`
 
 ## 📊 Data Analytics Focus
 
@@ -33,7 +44,8 @@ My portfolio combines **Data Analytics, Business Intelligence, Python, SQL, Mach
 - Dashboard development and data visualization
 - SQL and relational databases
 - Predictive modeling and Machine Learning
-- Artificial Intelligence applied to analytics
+- Artificial Intelligence applied to analytics and process improvement
+- Responsible data and AI practices
 - Data-driven problem solving
 
 ## 🛠️ Tech Stack
@@ -111,7 +123,7 @@ Python project demonstrating database connectivity and data access workflows.
 
 - 📊 **People Analytics with Power BI** — data modeling, Power Query, DAX, workforce KPIs, and executive dashboards.
 - 🗃️ **SQL Business Analysis** — answering business questions through SQL and structured analytical reasoning.
-- 🤖 **End-to-End Analytics & AI Projects** — combining Python, SQL, visualization, machine learning, AI, and business recommendations.
+- 🤖 **End-to-End Analytics & AI Projects** — combining Python, SQL, visualization, machine learning, AI, responsible data practices, and business recommendations.
 
 ## 📊 GitHub Activity
 
@@ -127,7 +139,7 @@ Python project demonstrating database connectivity and data access workflows.
 
 ## 🎯 Career Direction
 
-My goal is to continue developing as a **Data Analyst / Business Intelligence professional**, combining analytical thinking, business context, and technical skills to turn data into useful decisions.
+My goal is to continue developing as a **Data Analyst / Business Intelligence professional**, combining analytical thinking, business context, responsible AI, automation, and technical skills to turn data into useful decisions and continuously improve business processes.
 
 ## 📫 Connect
 
@@ -139,6 +151,6 @@ My goal is to continue developing as a **Data Analyst / Business Intelligence pr
 
 <div align="center">
 
-### Turning data into insights, and insights into better decisions.
+### Turning data into insights, AI into an ally, and insights into better decisions.
 
 </div>
