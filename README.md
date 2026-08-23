@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Juliano Ramos 👋
+# Hi, I'm Juliano Ramos 
 
 ### Data Analytics • Business Intelligence • Python • SQL • Power BI • AI
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a data-focused professional developing practical projects that transform raw data into **clear analysis, business insights, dashboards, predictive models, and data-driven solutions**.
 
