@@ -14,17 +14,11 @@ I transform raw data into **actionable insights, dashboards, predictive models, 
 
 My work combines **analytics, business understanding, machine learning, automation, and responsible AI**.
 
-<br>
-
-<a href="https://github.com/julianocramos?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Projects
 
 <table>
 <tr>
@@ -70,7 +64,7 @@ Customer behavior analysis and predictive modeling focused on identifying churn 
 
 ---
 
-## 🧩 Applications & Product Projects
+## 🌐 Interactive Projects
 
 <table>
 <tr>
@@ -79,15 +73,17 @@ Customer behavior analysis and predictive modeling focused on identifying churn 
 
 ### 🧠 Wellbeing Library
 
-Employee wellbeing platform combining digital reading, relaxation tools, interactive experiences, and a privacy-conscious product approach.
+Employee wellbeing platform combining **digital reading, relaxation tools, interactive experiences, and privacy-conscious design**.
 
-Demonstrates the ability to transform an idea into a **working digital product**.
+Demonstrates the ability to transform an idea into a **deployed digital product**.
 
 `JavaScript` `HTML` `CSS` `Product Development`
 
 <br>
 
-<!-- Add LIVE DEMO button here once production URL is confirmed -->
+<a href="https://wellbeing-library.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 <a href="https://github.com/julianocramos/wellbeing-library">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -99,13 +95,15 @@ Demonstrates the ability to transform an idea into a **working digital product**
 
 ### 📺 DevFlix
 
-Production-style Django application demonstrating backend development, authentication, relational databases, media integration, and deployment.
+Netflix-inspired Django application demonstrating **backend development, authentication, relational databases, media integration, and deployment**.
 
 `Python` `Django` `PostgreSQL` `Vercel`
 
 <br>
 
-<!-- Add LIVE DEMO button here once production URL is confirmed -->
+<a href="https://portifolio-netflix.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 <a href="https://github.com/julianocramos/Portifolio_netflix">
 <img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -121,7 +119,7 @@ Production-style Django application demonstrating backend development, authentic
 <br>
 
 <a href="https://github.com/julianocramos?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0969DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -221,7 +219,7 @@ I'm open to opportunities in **Data Analytics and Business Intelligence**, where
 <br>
 
 <a href="https://github.com/julianocramos?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
