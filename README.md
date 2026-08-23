@@ -82,11 +82,13 @@ Demonstrates the ability to transform an idea into a **deployed digital product*
 <br>
 
 <a href="https://wellbeing-library.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+<img height="36" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
+<br><br>
+
 <a href="https://github.com/julianocramos/wellbeing-library">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img height="27" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -102,11 +104,13 @@ Netflix-inspired Django application demonstrating **backend development, authent
 <br>
 
 <a href="https://portifolio-netflix.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+<img height="36" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
+<br><br>
+
 <a href="https://github.com/julianocramos/Portifolio_netflix">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img height="27" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
