@@ -10,9 +10,15 @@
 
 <br>
 
-I transform raw data into **actionable insights, dashboards, predictive models, and business decisions**.
+I transform raw data into **actionable insights, dashboards, predictive models, and better business decisions**.
 
 My work combines **analytics, business understanding, machine learning, automation, and responsible AI**.
+
+<br>
+
+<a href="https://github.com/julianocramos?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -29,14 +35,14 @@ My work combines **analytics, business understanding, machine learning, automati
 
 **Predictive Analytics • Machine Learning**
 
-End-to-end **CRISP-DM** project to estimate Customer Lifetime Value and identify customers, products, and acquisition channels with greater business value.
+End-to-end **CRISP-DM** project focused on estimating Customer Lifetime Value and identifying customers, products, and acquisition channels with greater business value.
 
-`Python` `Pandas` `Scikit-learn` `Regression`
+`Python` `Pandas` `Scikit-learn` `Regression` `CRISP-DM`
 
 <br>
 
 <a href="https://github.com/julianocramos/customer-lifetime-value-crispdm">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -47,54 +53,14 @@ End-to-end **CRISP-DM** project to estimate Customer Lifetime Value and identify
 
 **Customer Analytics • Machine Learning**
 
-Customer behavior analysis and predictive modeling focused on identifying churn patterns and supporting customer-retention decisions.
+Customer behavior analysis and predictive modeling focused on identifying churn patterns and supporting **customer-retention decisions**.
 
-`Python` `Pandas` `Matplotlib` `Scikit-learn`
+`Python` `Pandas` `Matplotlib` `Scikit-learn` `EDA`
 
 <br>
 
 <a href="https://github.com/julianocramos/customer-churn-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-### 🧩 Additional Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Wellbeing Library
-
-Employee wellbeing platform combining digital reading, relaxation tools, and interactive experiences.
-
-`JavaScript` `HTML` `CSS` `Product Development`
-
-<br>
-
-<a href="https://github.com/julianocramos/wellbeing-library">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📺 DevFlix
-
-Production-style Django application demonstrating backend development, authentication, relational databases, and deployment.
-
-`Python` `Django` `PostgreSQL` `Vercel`
-
-<br>
-
-<a href="https://github.com/julianocramos/Portifolio_netflix">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -104,11 +70,69 @@ Production-style Django application demonstrating backend development, authentic
 
 ---
 
+## 🧩 Applications & Product Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Wellbeing Library
+
+Employee wellbeing platform combining digital reading, relaxation tools, interactive experiences, and a privacy-conscious product approach.
+
+Demonstrates the ability to transform an idea into a **working digital product**.
+
+`JavaScript` `HTML` `CSS` `Product Development`
+
+<br>
+
+<!-- Add LIVE DEMO button here once production URL is confirmed -->
+
+<a href="https://github.com/julianocramos/wellbeing-library">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📺 DevFlix
+
+Production-style Django application demonstrating backend development, authentication, relational databases, media integration, and deployment.
+
+`Python` `Django` `PostgreSQL` `Vercel`
+
+<br>
+
+<!-- Add LIVE DEMO button here once production URL is confirmed -->
+
+<a href="https://github.com/julianocramos/Portifolio_netflix">
+<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/julianocramos?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Technical Toolkit
 
 <div align="center">
 
-### Analytics & BI
+### Analytics & Business Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -130,8 +154,9 @@ Production-style Django application demonstrating backend development, authentic
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-`n8n` • `Neon` • `Vercel` • `SQLite`
+`n8n` • `Neon` • `SQLite`
 
 </div>
 
@@ -146,7 +171,7 @@ Production-style Django application demonstrating backend development, authentic
 
 ### 📊 Analytics
 
-Transforming complex data into **clear, actionable insights**.
+Transforming complex data into **clear and actionable insights**.
 
 </td>
 
@@ -154,7 +179,7 @@ Transforming complex data into **clear, actionable insights**.
 
 ### 💡 Business Thinking
 
-Connecting analytical findings with **real business problems**.
+Connecting analytical findings with **real business problems and decisions**.
 
 </td>
 
@@ -162,7 +187,7 @@ Connecting analytical findings with **real business problems**.
 
 ### ⚙️ AI & Automation
 
-Building **more efficient analytical workflows** with AI and automation.
+Building **more efficient analytical workflows** using AI and automation.
 
 </td>
 
@@ -192,6 +217,14 @@ Applying **human oversight, privacy, security, and responsible data practices**.
 ## 📫 Let's Connect
 
 I'm open to opportunities in **Data Analytics and Business Intelligence**, where I can combine data, technology, and business understanding to support better decisions.
+
+<br>
+
+<a href="https://github.com/julianocramos?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<br><br>
 
 📍 **Dublin, Ireland**
 
