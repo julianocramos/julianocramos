@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Juliano Ramos 👋
+# Hi, I'm Juliano Ramos 
 
 ### Data Analytics • Business Intelligence • Python • SQL • Power BI • AI
 
