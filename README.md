@@ -1,232 +1,252 @@
 <div align="center">
 
-# Hi, I'm Juliano Ramos 
+# 👋 Hi, I'm Juliano Ramos
 
-### Data Analytics • Business Intelligence • Python • SQL • Power BI • AI
+### Data Analyst | Business Intelligence | Python | SQL | Power BI | AI
 
-**MBA in Business Intelligence | Postgraduate Degree in Data Analytics & Artificial Intelligence at FNAT (in progress)**
+📍 **Dublin, Ireland**
 
-📍 Dublin, Ireland
+**MBA in Business Intelligence**
+📚 **Postgraduate Degree in Data Analytics & Artificial Intelligence — FNAT** *(in progress)*
+
+<br>
+
+I transform data into **business insights, dashboards, predictive models, and data-driven solutions**.
+
+My work combines **analytics, business understanding, machine learning, automation, and responsible AI** to solve practical problems and support better decision-making.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/julianocramos)
+[![Location](https://img.shields.io/badge/Location-Dublin%2C_Ireland-0077B5?style=for-the-badge\&logo=googlemaps\&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 Featured Data Projects
 
-I'm a data-focused professional developing practical projects that transform raw data into **clear analysis, business insights, dashboards, predictive models, and data-driven solutions**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I hold an **MBA in Business Intelligence** and I am currently pursuing a **Postgraduate Degree in Data Analytics & Artificial Intelligence at FNAT**, strengthening my expertise in analytics, BI, data modeling, machine learning, and AI.
+### 💰 Customer Lifetime Value
 
-Through this postgraduate program, I have also learned to use **Artificial Intelligence as a practical partner for developing, optimizing, and improving processes**.
+**Predictive Analytics • Machine Learning**
 
-My approach combines AI with human judgment and business context while maintaining a strong focus on **responsible AI, data privacy, security, transparency, GDPR, and good data-governance practices**.
+End-to-end Data Science project following the **CRISP-DM methodology** to estimate Customer Lifetime Value and identify customers, products, and acquisition channels with greater business value.
 
-My portfolio combines **Data Analytics, Business Intelligence, Python, SQL, Machine Learning, Artificial Intelligence, and application development**.
+**Highlights**
 
-I enjoy working across the full analytical workflow — from data preparation and exploratory analysis to visualization, modeling, automation, deployment, and communicating actionable business findings.
+* Business problem definition
+* Data cleaning & feature engineering
+* Exploratory Data Analysis
+* Regression modeling
+* Model evaluation
+* Business interpretation
 
----
+`Python` `Pandas` `Scikit-learn` `CRISP-DM` `Regression`
 
-## 🎓 Education
+<br>
 
-* 🎓 **MBA in Business Intelligence**
-* 📚 **Postgraduate Degree in Data Analytics & Artificial Intelligence — FNAT** *(in progress)*
+<a href="https://github.com/julianocramos/customer-lifetime-value-crispdm">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-Current areas of development include:
+</td>
 
-* Artificial Intelligence applied to analytics
-* Process development and optimization
-* Machine Learning
-* Data Analytics
-* Business Intelligence
-* Responsible AI
-* Data privacy and GDPR
-* Automation
-* Human oversight in AI-assisted processes
-
----
-
-## 🤖 Responsible AI & Process Improvement
-
-I see Artificial Intelligence not simply as a tool for generating outputs, but as an **enabler for better processes and smarter analytical workflows**.
-
-I use AI to support:
-
-* Research
-* Data analysis
-* Automation
-* Problem solving
-* Development
-* Process optimization
-* Continuous improvement
-
-while keeping **human oversight, responsible data handling, privacy, security, and business context** at the center of the process.
-
-`Responsible AI` `GDPR` `Data Privacy` `AI-Assisted Development` `Process Improvement` `Automation` `Human Oversight`
-
----
-
-## 📊 Data Analytics Focus
-
-* Exploratory Data Analysis (EDA)
-* Data cleaning and transformation
-* Business analytics
-* Customer analytics
-* Dashboard development
-* Data visualization
-* SQL and relational databases
-* Data modeling
-* Predictive modeling
-* Machine Learning
-* Artificial Intelligence applied to analytics
-* Process automation
-* Responsible data and AI practices
-* Data-driven problem solving
-* Business insight communication
-
----
-
-## 🛠️ Tech Stack
-
-### Data Analytics & Business Intelligence
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-**Also:** DAX • Power Query • Matplotlib • Machine Learning • EDA
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### Development, Automation & Deployment
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-**Also:** HTML • CSS • n8n • Neon • VS Code
-
----
-
-## 🚀 Featured Projects
-
-### 💰 Customer Lifetime Value — CRISP-DM
-
-End-to-end Data Science project focused on estimating **Customer Lifetime Value (LTV)** using the **CRISP-DM methodology**.
-
-The project covers the analytical workflow from business understanding and data preparation to exploratory analysis, feature engineering, predictive modeling, model evaluation, and business interpretation.
-
-`Python` `Pandas` `Scikit-learn` `CRISP-DM` `Regression` `EDA` `Customer Analytics` `Machine Learning`
-
-➡️ [View Customer Lifetime Value Project](https://github.com/julianocramos/customer-lifetime-value-crispdm)
-
----
+<td width="50%" valign="top">
 
 ### 📉 Customer Churn Analysis
 
-Customer churn analysis and prediction using Python and Machine Learning techniques to identify patterns associated with customer attrition.
+**Customer Analytics • Machine Learning**
 
-The project combines exploratory analysis, visualization, customer behavior analysis, and predictive modeling.
+Customer churn analysis focused on identifying behavioral patterns and developing predictive models to support **customer retention and business decision-making**.
 
-`Python` `Pandas` `Matplotlib` `Scikit-learn` `EDA` `Customer Analytics` `Machine Learning` `Business Insights`
+**Highlights**
 
-➡️ [View Customer Churn Analysis](https://github.com/julianocramos/customer-churn-analysis)
+* Customer behavior analysis
+* Exploratory Data Analysis
+* Data visualization
+* Churn prediction
+* Machine Learning
+* Business insights
+
+`Python` `Pandas` `Matplotlib` `Scikit-learn` `EDA`
+
+<br>
+
+<a href="https://github.com/julianocramos/customer-churn-analysis">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📺 DevFlix
+## 🧩 More Projects
 
-Netflix-inspired training platform modernized into a production-style Django web application.
-
-The project demonstrates backend development, authentication, relational database integration, cloud database deployment, and production deployment.
-
-`Python` `Django` `PostgreSQL` `Neon` `Vercel` `Authentication` `Web Development`
-
-➡️ [View DevFlix](https://github.com/julianocramos/Portifolio_netflix)
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Wellbeing Library
 
-Employee wellbeing platform combining digital reading, relaxation tools, interactive experiences, and a privacy-conscious product approach.
+Employee wellbeing platform combining digital reading, relaxation tools, and interactive experiences.
 
-The project explores the intersection between technology, employee wellbeing, user experience, and product development.
+Demonstrates my ability to move beyond analysis and **turn an idea into a working digital product**.
 
-`JavaScript` `HTML` `CSS` `Web Development` `Product Development` `User Experience`
+`JavaScript` `HTML` `CSS` `Product Development`
 
-➡️ [View Wellbeing Library](https://github.com/julianocramos/wellbeing-library)
+<br>
 
----
+<a href="https://github.com/julianocramos/wellbeing-library">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-## 📈 Currently Building
+</td>
 
-### 📊 People Analytics with Power BI
+<td width="50%" valign="top">
 
-Developing an analytical solution focused on workforce data using:
+### 📺 DevFlix
 
-`Power BI` `Power Query` `DAX` `Data Modeling` `Workforce KPIs` `Dashboard Design`
+Production-style Django application inspired by streaming platforms, demonstrating backend development, authentication, databases, and deployment.
 
-### 🗃️ SQL Business Analysis
+`Python` `Django` `PostgreSQL` `Neon` `Vercel`
 
-Building SQL projects focused on answering business questions through structured analytical reasoning.
+<br>
 
-`SQL` `Business Analysis` `Relational Databases` `Data Exploration` `Business Questions`
+<a href="https://github.com/julianocramos/Portifolio_netflix">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-### 🤖 End-to-End Analytics & AI Projects
-
-Developing projects that combine:
-
-`Python` `SQL` `Data Visualization` `Machine Learning` `Artificial Intelligence` `Responsible AI` `Automation` `Business Recommendations`
-
----
-
-## 🔗 GitHub Portfolio
-
-Explore my projects, experiments, and repositories:
-
-➡️ **[github.com/julianocramos](https://github.com/julianocramos)**
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Career Direction
+## 🛠️ Technical Toolkit
 
-My goal is to continue developing as a **Data Analyst / Business Intelligence professional**, combining analytical thinking, business context, responsible AI, automation, and technical skills to transform data into useful decisions and continuously improve business processes.
+<div align="center">
 
-I am particularly interested in:
+### Analytics & Business Intelligence
 
-* Transforming raw data into useful information
-* Identifying business opportunities and risks
-* Building clear and effective dashboards
-* Developing predictive analytical models
-* Automating repetitive analytical processes
-* Improving business decision-making
-* Applying Artificial Intelligence responsibly
-* Continuously improving processes through data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Machine Learning & Data Science
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+`Machine Learning` • `EDA` • `Predictive Modeling` • `Data Visualization` • `CRISP-DM`
+
+### Data, Development & Deployment
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+`Power Query` • `DAX` • `Matplotlib` • `SQLite` • `n8n` • `Neon`
+
+</div>
 
 ---
 
-## 📫 Connect
+## 🎯 What I Bring to Data Analytics
 
-[![GitHub](https://img.shields.io/badge/GitHub-julianocramos-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/julianocramos)
+<table>
+<tr>
+<td align="center" width="25%">
 
-📍 **Dublin, Ireland**
+### 📊
+
+**Analytics**
+
+Turning raw data into meaningful and actionable insights.
+
+</td>
+<td align="center" width="25%">
+
+### 💼
+
+**Business**
+
+Connecting analytical results with real business problems.
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+Using AI and automation to improve analytical workflows and processes.
+
+</td>
+<td align="center" width="25%">
+
+### 🛡️
+
+**Responsible AI**
+
+Applying human oversight, privacy, security, and responsible data practices.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education & Development
+
+🎓 **MBA in Business Intelligence**
+
+📚 **Postgraduate Degree in Data Analytics & Artificial Intelligence — FNAT** *(in progress)*
+
+Current development areas:
+
+`Data Analytics` • `Business Intelligence` • `Machine Learning` • `Artificial Intelligence` • `Process Improvement` • `Responsible AI`
+
+---
+
+## 🔨 Currently Building
+
+📊 **People Analytics with Power BI**
+Workforce analytics, data modeling, Power Query, DAX, KPIs, and executive dashboards.
+
+🗃️ **SQL Business Analysis**
+Using SQL to answer practical business questions and transform relational data into actionable insights.
+
+🤖 **End-to-End Analytics & AI**
+Combining analytics, machine learning, automation, AI, and business recommendations.
 
 ---
 
 <div align="center">
 
-### Turning data into insights, AI into an ally, and insights into better decisions.
+## 📫 Let's Connect
+
+I'm interested in opportunities involving **Data Analytics, Business Intelligence, Power BI, Python, SQL, and AI-assisted analytics**.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-julianocramos-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/julianocramos)
+
+<br><br>
+
+### Data → Insights → Decisions
+
+*Building practical analytics solutions with business context and responsible AI.*
 
 </div>
