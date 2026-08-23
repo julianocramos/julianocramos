@@ -10,7 +10,7 @@
 
 <br>
 
-I build **data-driven solutions** that turn raw data into actionable insights, dashboards, predictive models, and better business decisions.
+I transform raw data into **actionable insights, dashboards, predictive models, and business decisions**.
 
 My work combines **analytics, business understanding, machine learning, automation, and responsible AI**.
 
@@ -29,19 +29,9 @@ My work combines **analytics, business understanding, machine learning, automati
 
 **Predictive Analytics • Machine Learning**
 
-End-to-end analytics project following **CRISP-DM** to estimate Customer Lifetime Value and identify customers, products, and acquisition channels with greater business value.
+End-to-end **CRISP-DM** project to estimate Customer Lifetime Value and identify customers, products, and acquisition channels with greater business value.
 
-**What it demonstrates**
-
-* Business problem definition
-* Data cleaning & transformation
-* Exploratory Data Analysis
-* Feature engineering
-* Regression modeling
-* Model evaluation
-* Business interpretation
-
-`Python` `Pandas` `Scikit-learn` `CRISP-DM` `Regression`
+`Python` `Pandas` `Scikit-learn` `Regression`
 
 <br>
 
@@ -57,18 +47,9 @@ End-to-end analytics project following **CRISP-DM** to estimate Customer Lifetim
 
 **Customer Analytics • Machine Learning**
 
-Customer churn analysis focused on identifying behavioral patterns and developing predictive models to support **customer retention and business decisions**.
+Customer behavior analysis and predictive modeling focused on identifying churn patterns and supporting customer-retention decisions.
 
-**What it demonstrates**
-
-* Customer behavior analysis
-* Exploratory Data Analysis
-* Data visualization
-* Predictive modeling
-* Machine Learning
-* Business insights
-
-`Python` `Pandas` `Matplotlib` `Scikit-learn` `EDA`
+`Python` `Pandas` `Matplotlib` `Scikit-learn`
 
 <br>
 
@@ -92,8 +73,6 @@ Customer churn analysis focused on identifying behavioral patterns and developin
 
 Employee wellbeing platform combining digital reading, relaxation tools, and interactive experiences.
 
-Demonstrates the ability to transform an idea into a **working digital product**.
-
 `JavaScript` `HTML` `CSS` `Product Development`
 
 <br>
@@ -110,7 +89,7 @@ Demonstrates the ability to transform an idea into a **working digital product**
 
 Production-style Django application demonstrating backend development, authentication, relational databases, and deployment.
 
-`Python` `Django` `PostgreSQL` `Neon` `Vercel`
+`Python` `Django` `PostgreSQL` `Vercel`
 
 <br>
 
@@ -129,7 +108,7 @@ Production-style Django application demonstrating backend development, authentic
 
 <div align="center">
 
-### Analytics & Business Intelligence
+### Analytics & BI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
@@ -138,21 +117,21 @@ Production-style Django application demonstrating backend development, authentic
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### Machine Learning & Visualization
+### Machine Learning & Data
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-`Machine Learning` • `EDA` • `Predictive Modeling` • `Matplotlib` • `CRISP-DM`
-
-### Data & Development
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+`Machine Learning` • `EDA` • `Predictive Modeling` • `CRISP-DM` • `Power Query` • `DAX`
+
+### Development & Automation
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-`Power Query` • `DAX` • `SQLite` • `n8n` • `Neon` • `Vercel`
+`n8n` • `Neon` • `Vercel` • `SQLite`
 
 </div>
 
@@ -167,7 +146,7 @@ Production-style Django application demonstrating backend development, authentic
 
 ### 📊 Analytics
 
-Transforming complex data into **clear and actionable insights**.
+Transforming complex data into **clear, actionable insights**.
 
 </td>
 
@@ -175,15 +154,15 @@ Transforming complex data into **clear and actionable insights**.
 
 ### 💡 Business Thinking
 
-Connecting analytical findings with **real business problems and decisions**.
+Connecting analytical findings with **real business problems**.
 
 </td>
 
 <td align="center" width="25%">
 
-### ⚙️ Automation & AI
+### ⚙️ AI & Automation
 
-Using automation and AI to build **more efficient analytical workflows**.
+Building **more efficient analytical workflows** with AI and automation.
 
 </td>
 
@@ -213,10 +192,6 @@ Applying **human oversight, privacy, security, and responsible data practices**.
 ## 📫 Let's Connect
 
 I'm open to opportunities in **Data Analytics and Business Intelligence**, where I can combine data, technology, and business understanding to support better decisions.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-julianocramos-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/julianocramos)
 
 📍 **Dublin, Ireland**
 
