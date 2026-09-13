@@ -21,89 +21,69 @@ My work combines **analytics, business understanding, machine learning, automati
 ## 🚀 Featured Data Projects
 
 <table>
-
-<tr>
-
-<td width="100%" valign="top">
+  <tr>
+    <td colspan="2" valign="top">
 
 ### 💳 Credit Risk Scoring & Default Prediction
 
 **Predictive Analytics • Machine Learning • Credit Risk • Explainable AI**
 
-End-to-end **CRISP-DM credit-scoring project** designed to estimate the probability of a customer becoming 90+ days delinquent.
+End-to-end **CRISP-DM** project developed to estimate the probability of a customer becoming **90+ days delinquent**, combining **LightGBM**, cost-sensitive threshold optimisation, **SHAP explainability**, and an interactive **Streamlit decision-support app**.
 
-The solution combines **LightGBM**, cost-sensitive threshold optimisation, asymmetric business costs, **SHAP explainability**, and a complementary loan-affordability assessment.
-
-The final solution was deployed as an interactive **Streamlit decision-support application** tailored to an Irish lending context.
-
-<br>
-
-**Test ROC-AUC:** `0.869` &nbsp; • &nbsp;
-**PR-AUC:** `0.409` &nbsp; • &nbsp;
-**Operational Threshold:** `60%`
-
-**Estimated cost reduction vs baseline:** `€6.43M`
-
-<br>
+**Highlights:** `ROC-AUC 0.869` • `PR-AUC 0.409` • `Threshold 60%` • `Affordability Analysis`
 
 `Python` `Pandas` `Scikit-learn` `LightGBM` `XGBoost` `SHAP` `Streamlit` `CRISP-DM`
 
 <br>
 
 <a href="https://github.com/julianocramos/credit-scoring-crispdm">
-<img height="30" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 &nbsp;
-
 <a href="https://credit-scoring-crispdm.streamlit.app">
-<img height="30" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 
-</td>
+   </td>
+  </tr>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💰 Customer Lifetime Value
 
 **Predictive Analytics • Machine Learning**
 
-End-to-end **CRISP-DM** project focused on estimating Customer Lifetime Value and identifying customers, products, and acquisition channels with greater business value.
+End-to-end **CRISP-DM** project focused on estimating **Customer Lifetime Value** and identifying customers, products, and acquisition channels with higher business value.
 
 `Python` `Pandas` `Scikit-learn` `Regression` `CRISP-DM`
 
 <br>
 
 <a href="https://github.com/julianocramos/customer-lifetime-value-crispdm">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
+   </td>
 
-<td width="50%" valign="top">
+   <td width="50%" valign="top">
 
 ### 📉 Customer Churn Analysis
 
 **Customer Analytics • Machine Learning**
 
-Customer behavior analysis and predictive modeling focused on identifying churn patterns and supporting **customer-retention decisions**.
+Customer behaviour analysis and predictive modelling focused on identifying **churn patterns** and supporting **customer-retention decisions**.
 
 `Python` `Pandas` `Matplotlib` `Scikit-learn` `EDA`
 
 <br>
 
 <a href="https://github.com/julianocramos/customer-churn-analysis">
-<img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="28" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-</tr>
-
+   </td>
+  </tr>
 </table>
 
 ---
@@ -111,44 +91,33 @@ Customer behavior analysis and predictive modeling focused on identifying churn 
 ## 🌐 Interactive Projects
 
 <table>
-
-<tr>
-
-<td width="100%" valign="top">
+  <tr>
+    <td colspan="2" valign="top">
 
 ### 💳 Credit Risk & Affordability Assessment
 
-Interactive **Streamlit credit decision-support application** combining machine-learning default-risk prediction with loan affordability analysis.
+Interactive **Streamlit application** for credit decision support, combining **default-risk prediction** with **loan affordability analysis**.
 
-The application allows a credit analyst to enter a customer's financial and credit profile and receive:
-
-**Default probability • Operational risk decision • Monthly loan repayment • Total repayable • Disposable income • Post-loan financial commitments**
-
-The machine-learning model and affordability module are intentionally separated to preserve methodological integrity.
-
-<br>
+The app allows the analyst to simulate a customer profile and receive:
+**default probability • approval/rejection decision • monthly repayment • disposable income • post-loan commitments**
 
 `Python` `Streamlit` `LightGBM` `Machine Learning` `Credit Risk` `Financial Analytics`
 
 <br>
 
 <a href="https://credit-scoring-crispdm.streamlit.app">
-<img height="36" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=streamlit&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
-
 &nbsp;
-
 <a href="https://github.com/julianocramos/credit-scoring-crispdm">
-<img height="36" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
+   </td>
+  </tr>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🧠 Wellbeing Library
 
@@ -161,18 +130,16 @@ Demonstrates the ability to transform an idea into a **deployed digital product*
 <br>
 
 <a href="https://wellbeing-library.vercel.app/">
-<img height="36" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-<br><br>
-
+&nbsp;
 <a href="https://github.com/julianocramos/wellbeing-library">
-<img height="27" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
+   </td>
 
-<td width="50%" valign="top">
+   <td width="50%" valign="top">
 
 ### 📺 DevFlix
 
@@ -183,19 +150,15 @@ Netflix-inspired Django application demonstrating **backend development, authent
 <br>
 
 <a href="https://portifolio-netflix.vercel.app/">
-<img height="36" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/OPEN_LIVE_DEMO-00A67E?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-<br><br>
-
+&nbsp;
 <a href="https://github.com/julianocramos/Portifolio_netflix">
-<img height="27" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-</tr>
-
+   </td>
+  </tr>
 </table>
 
 <div align="center">
@@ -203,7 +166,7 @@ Netflix-inspired Django application demonstrating **backend development, authent
 <br>
 
 <a href="https://github.com/julianocramos?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0969DA?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0969DA?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -257,39 +220,30 @@ Netflix-inspired Django application demonstrating **backend development, authent
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 📊 Analytics
-
 Transforming complex data into **clear, actionable insights and measurable business outcomes**.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 💡 Business Thinking
-
-Connecting analytical findings, predictive models, and KPIs with **real business problems and decisions**.
+Connecting analytical findings and predictive models with **real business problems and decisions**.
 
 </td>
-
 <td align="center" width="25%">
 
 ### ⚙️ AI & Automation
-
 Building **machine-learning solutions and automated analytical workflows** using AI and modern data tools.
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🛡️ Responsible AI
-
 Applying **human oversight, explainability, privacy, security, and responsible data practices**.
 
 </td>
-
 </tr>
 </table>
 
@@ -312,7 +266,7 @@ I'm open to opportunities in **Data Analytics, Business Intelligence, Machine Le
 <br>
 
 <a href="https://github.com/julianocramos?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
